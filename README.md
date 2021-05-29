@@ -21,5 +21,5 @@ Program 2: Develop an Android application using controls like Button, TextView, 
   
 </br>
 <b>Final Output of Simple Calculator<b> </br>
-![alt text](https://github.com/bbpatil/MAD_Calculator/blob/master/images/output.png "Output Design")
+![alt text](https://github.com/bbpatil/MAD_Calculator/blob/master/images/output.png  "Output Design")
 </br>
