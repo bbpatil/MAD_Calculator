@@ -20,6 +20,6 @@ Program 2: Develop an Android application using controls like Button, TextView, 
 ![alt text](https://github.com/bbpatil/MAD_Calculator/blob/master/images/layout.png "Layout")
   
 </br>
-<b>Final Output of Simple Calculator<b>
+<b>Final Output of Simple Calculator<b> </br>
 ![alt text](https://github.com/bbpatil/MAD_Calculator/blob/master/images/output.png "Output Design")
 </br>
