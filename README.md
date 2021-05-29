@@ -8,4 +8,4 @@ Program 2: Develop an Android application using controls like Button, TextView, 
 
 ![alt text](https://github.com/bbpatil/MAD_Calculator/tree/master/images/Simple_Design.jpg "Sample Design")
 
-![alt text](https://github.com/bbpatil/MAD_Calculator/tree/master/images/Project Structure.png "Project Layout")
+![alt text](https://github.com/bbpatil/MAD_Calculator/blob/master/images/Project%20Structure.png "Project Layout")
