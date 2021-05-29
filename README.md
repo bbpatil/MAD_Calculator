@@ -10,7 +10,7 @@ Program 2: Develop an Android application using controls like Button, TextView, 
 ![alt text](https://github.com/bbpatil/MAD_Calculator/blob/master/images/sampledesign.png "Sample Design")
 </br>
 <b>Project Strucutre<b></br>
-![alt text](https://github.com/bbpatil/MAD_Calculator/blob/master/images/projectstructures.png "Project Layout")
+![alt text](https://github.com/bbpatil/MAD_Calculator/blob/master/images/projectstructure.png "Project Layout")
 </br>
 <b>Manifest.xml<b></br>
 ![alt text](https://github.com/bbpatil/MAD_Calculator/blob/master/images/manifest.png "Manifest file")
@@ -20,5 +20,6 @@ Program 2: Develop an Android application using controls like Button, TextView, 
 ![alt text](https://github.com/bbpatil/MAD_Calculator/blob/master/images/layout.png "Layout")
   
 </br>
-<b>Final Output of Simple Calculator<b> </br>
+<b>Final Output of Simple Calculator<b>
+</br>
 ![alt text] (https://github.com/bbpatil/MAD_Calculator/blob/master/images/output.png "Output")
